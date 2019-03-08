@@ -23,7 +23,8 @@ void setup() {
 
 }
 
-int vertical = 90;
+// Initialize the solar panel to face one direction of the horizon
+int vertical = 175;
 // int horizontal = 0;
 
 void loop() {
